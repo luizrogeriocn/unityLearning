@@ -1,0 +1,1728 @@
+fileFormatVersion: 2
+guid: 757869ad55c437946bc25666a53042c6
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Magus_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 582
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 582
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 582
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 581
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 581
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 581
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_6
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 581
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 581
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 581
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 581
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 536
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 538
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 538
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 536
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 536
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 536
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 533
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 533
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 533
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_19
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 533
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 533
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 492
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 492
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 491
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 491
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 492
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 491
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 491
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 491
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_30
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 490
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_31
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 489
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_32
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 489
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_33
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 495
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_35
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 448
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_39
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 448
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 448
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_41
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_43
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 448
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_44
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 448
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 448
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_46
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 448
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_47
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_48
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 395
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 395
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_50
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 395
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_52
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 395
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 395
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_54
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 395
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_55
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 395
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_56
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 395
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_57
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 395
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_58
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 395
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_59
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 395
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_60
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 395
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_61
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 395
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_62
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 349
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_63
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 349
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_64
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 349
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_65
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_66
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 349
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_67
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 349
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_68
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 349
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_69
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 349
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_70
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 349
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_71
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 349
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_72
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 349
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_73
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 349
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_74
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 349
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_75
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 349
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_76
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 349
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_77
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 305
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_78
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 301
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_79
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 301
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_80
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 301
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 302
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_82
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 302
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_83
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 302
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_84
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 302
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_85
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 302
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_86
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 303
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_87
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 303
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 303
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_89
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 303
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_90
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 303
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_91
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 303
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_92
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 304
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_93
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 318
+        width: 101
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_94
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 249
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_95
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 251
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_96
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 252
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_97
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 252
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_98
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_99
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 252
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_100
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 252
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_101
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 252
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_102
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 252
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_103
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 252
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_104
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 252
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_105
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 251
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 253
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_107
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 253
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_108
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 206
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_109
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 206
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_110
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 206
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_111
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 206
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_112
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 206
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_113
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 206
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_114
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 206
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_115
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 206
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_116
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 206
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_117
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 206
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_118
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 206
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_119
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 205
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_120
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 205
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_121
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 205
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_122
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 211
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_123
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 156
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_124
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 156
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_125
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 156
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_126
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 156
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_127
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 156
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_128
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 156
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_129
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 156
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_130
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 155
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_131
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 155
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_132
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 155
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_133
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 155
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_134
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 156
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_135
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 156
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_136
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 156
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_137
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 156
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_138
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 156
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_139
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 156
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_140
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_141
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_142
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_143
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 102
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_144
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 102
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_145
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 102
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_146
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 102
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_147
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 102
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_148
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 101
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_149
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 101
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_150
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 101
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_151
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 101
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_152
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_153
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 101
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_154
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 49
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_155
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 49
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_156
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 49
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_157
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 48
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_158
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_159
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_160
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 48
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_161
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 48
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_162
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 48
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_163
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 48
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_164
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_165
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 48
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_166
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 48
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_167
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 48
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_168
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 48
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_169
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_170
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_171
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_172
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_173
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_174
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_175
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_176
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_177
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_178
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_179
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_180
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_181
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_182
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_183
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_184
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_185
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Magus_186
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
