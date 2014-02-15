@@ -1,0 +1,104 @@
+﻿//----------------------------------------------//
+// Gamelogic Grids                              //
+// http://www.gamelogic.co.za                   //
+// Copyright (c) 2013 Gamelogic (Pty) Ltd       //
+//----------------------------------------------//
+
+// Auto-generated File
+
+using System;
+using System.Linq;
+using System.Collections.Generic;
+
+using UnityEngine;
+
+namespace Gamelogic.Grids
+{
+<# 
+	foreach(var name in AllGrids)  
+	{
+		string Point = name + "Point";
+		string GridName = name + "Grid";
+		string OpName = name + "Op";
+#>
+	
+	public partial class <#=GridName#><TCell>
+	{
+		#region Creation
+		public <#=GridName#>(int width, int height) :
+			this(width, height, x => DefaultContains(x, width, height))
+		{}
+
+		public <#=GridName#>(int width, int height, Func<<#=Point#>, bool> isInside) :
+			this(width, height, isInside, x => x, x => x)
+		{}
+
+		public <#=GridName#>(int width, int height, Func<<#=Point#>, bool> isInside, <#=Point#> offset) :
+			this(width, height, isInside, x => x.MoveBy(offset), x => x.MoveBackBy(offset))
+		{}		
+		#endregion
+
+		#region Properties
+		protected <#=Point#> GridOrigin
+		{
+			get
+			{
+				return PointTransform(<#=Point#>.Zero);
+			}
+		}
+		#endregion
+
+		#region Constructors
+		override public IGrid<NewCellType, <#=Point#>> CloneStructure<NewCellType>()
+		{
+			return new <#=GridName#><NewCellType>(width, height, contains, PointTransform, InversePointTransform);
+		}
+		#endregion
+
+		#region Shape Fluents
+		public static <#=OpName#><TCell> BeginShape()
+		{
+			return new <#=OpName#><TCell>();
+		}
+		#endregion
+
+		#region ToString
+		override public string ToString()
+		{
+			return this.ListToString();
+		}
+		#endregion
+
+		#region Storage
+		public static IntRect CalculateStorage(IEnumerable<<#=Point#>> points)
+		{
+			var firstPoint = points.First();
+			var arrayPoint = ArrayPointFromGridPoint(firstPoint.BasePoint);
+
+			var minX = arrayPoint.X;
+			var maxX = arrayPoint.X;
+
+			var minY = arrayPoint.Y;
+			var maxY = arrayPoint.Y;
+
+			foreach(var point in points)
+			{
+				arrayPoint = ArrayPointFromGridPoint(point.BasePoint);
+
+				minX = Mathf.Min(minX, arrayPoint.X);
+				maxX = Mathf.Max(maxX, arrayPoint.X);
+
+				minY = Mathf.Min(minY, arrayPoint.Y);
+				maxY = Mathf.Max(maxY, arrayPoint.Y);
+			}
+
+			return new IntRect(
+				new ArrayPoint(minX, minY),
+				new ArrayPoint(maxX - minX + 1, maxY - minY + 1));
+		}
+		#endregion
+	}	
+<#
+	}
+#>
+}
